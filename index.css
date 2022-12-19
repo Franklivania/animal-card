@@ -41,6 +41,7 @@ main{
     justify-content: center;
     border: 0.02rem solid var(--border-color);
     font-family: var(--font-main);
+    color: var(--text-color);
 }
 figure{
     margin: 2rem;
